@@ -1,6 +1,6 @@
 # Hjemmeopgave 2
 
-**Deadline:** 10. juni kl 18.00. 
+**Deadline:** 6. juni kl 18.00. 
 
 Se `ho2.pdf` for selve opgaveteksten. 
 
